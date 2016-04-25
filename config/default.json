@@ -1,0 +1,9 @@
+{
+  "database": {
+    "dialect": "mysql",
+    "host": "your host address",
+    "user": "database user name",
+    "database": "database name",
+    "password": "database password"
+  }
+}

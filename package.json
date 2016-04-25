@@ -1,0 +1,15 @@
+{
+  "name": "gluon-example",
+  "version": "1.0.0",
+  "description": "Gluon example for 1.0.0",
+  "main": "src/app.js",
+  "private": true,
+  "keywords": ["gluon", "example"],
+  "author": "co3moz",
+  "license": "MIT",
+  "dependencies": {
+    "gluon": "1.0.0",
+    "js-md5": "0.4.1",
+    "mysql": "^2.10.2"
+  }
+}
